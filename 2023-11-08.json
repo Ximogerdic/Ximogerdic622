@@ -1,0 +1,26 @@
+{
+  "name": "Lulu Mendez",
+  "age": 49,
+  "address": {
+    "street": "Jartuz Place",
+    "city": "Cevihla",
+    "state": "MD",
+    "zip": "41514"
+  },
+  "contact": {
+    "phone": "(606) 528-2226",
+    "servicePhone": "800977458"
+  },
+  "birthday": "2001-09-15T16:59:51.193Z",
+  "ip": "190.222.17.226",
+  "foo": "bar",
+  "profile": {
+    "about": "Natis doso buk popa pofeh fan zepcit nite sem tocopemen hohug mim kuf dem ga. Laveiba ak zoda oletomno kas kalas repopti wo di logik ase lodumzis fa ceseg. Wurwi sonta wiaw gi mes awbosdih bu zowad kokfirkeh jemhifow ap ezoohi otassip eruku. Abelozhaz hawi posel us iboga rah kumag ja areba ho gi tara uzu talzir oruriwo etdub. Piabnu dalit el ta lec renwe niwele gaz wuzifwi fibew utaidiuzu ravefre.",
+    "bio": "Tiose mi ino kihaku bu hajake di veedu se sig uha tol ip wekus. Nofev bedtu sab wanohaw irueluid tujor ala girem ijgor ocbe agannip da. Wuknanlip pigzeto tioglef ovu lu apo fodme tubed vikkengok zerru podekbo amutitut juanair dilaeja. Moki caz kapefje efowu bubab pudiaku eki naji fe dosepezov gorot zuipe betevbo bo juv. Aknalil it ronuw gigrava ro nehi dinpod cesam wo cowbe hegmet pahah. Oni sowpu wir ranit kagcot iza va aluled ki gikunul obwetob ul pufohful til."
+  },
+  "apiKey": "da4c16df3f3b25fd9a31d1887c39454fcbcf2a59e263f932072d8c57eb9c8bb3",
+  "currency": {
+    "code": "BMD",
+    "name": "Bermuda Dollar"
+  }
+}
