@@ -1,0 +1,26 @@
+{
+  "name": "Cynthia Rice",
+  "age": 57,
+  "address": {
+    "street": "Ilzod Heights",
+    "city": "Rajapma",
+    "state": "MT",
+    "zip": "34862"
+  },
+  "contact": {
+    "phone": "(479) 972-1043",
+    "servicePhone": "800416888"
+  },
+  "birthday": "1983-06-10T01:17:15.236Z",
+  "ip": "178.247.145.245",
+  "foo": "bar",
+  "profile": {
+    "about": "Pojebesu ba ob muhdomah wi li ol tugcidkus etomu vosup halri bu vipihcu wueb ihnofo buwhuwi. Zomofmo herip poz cirjig dafico mi fipmegac cihamobe vuppiol kimomcon rojwaco pala vutcujek buw pec wacpo duz socur. Doc ojamuhfi pewwif vofu bet ucaigi if ohevi vitfasma betfudu kijios minuriti dalizos enowanuz pun nos.",
+    "bio": "Tus wubazsi pajomzon fuw sumahdek fewfup binicfo regered lubsew bubfokuw do bisduso avohep taviow naecnem. Cusukaj zibob ferra ejba nelupo tu janoh ti daki haw ideri sa lu emu. Nitcus dikosu wa bo uduivnud ha cubsamcip tewu siwjecjeh da mafjowo koipak maspobag moik meh iwu."
+  },
+  "apiKey": "47ab8354bc7640fb2de543dc782d83f66d42399e197364b3fb66715510796b68",
+  "currency": {
+    "code": "KGS",
+    "name": "Kyrgyzstan Som"
+  }
+}
