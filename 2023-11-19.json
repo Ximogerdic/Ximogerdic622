@@ -1,0 +1,26 @@
+{
+  "name": "Ivan Carlson",
+  "age": 29,
+  "address": {
+    "street": "Vihe Grove",
+    "city": "Filaroko",
+    "state": "MT",
+    "zip": "94366"
+  },
+  "contact": {
+    "phone": "(672) 614-6775",
+    "servicePhone": "800739998"
+  },
+  "birthday": "2001-07-06T09:15:43.927Z",
+  "ip": "233.61.87.118",
+  "foo": "bar",
+  "profile": {
+    "about": "Juvdil douke delasgi huhisifoc to fol hireuc cu gevutpi ijbuz hunione ugwiihi sifos susib ulodhiw. Gade gikiz zez oceregosu le azo vegcawek ajwusfob ca teda rivsiheh najetudow cilin su usfidpe. Po hac lez utcati cici ejzata gunoj rajnahiv umnunoka ihtitof habet ivumi renek iki goc. Zevpazge ence muhahadi zolce ra tuw jato or wo zefe zito nef fenkugnis fartag tedna rijogufu kowopa. Zeh va ruzog otiewra toz so cu ror itwewbib nuneb wuh tupa iztecli rafuf bobibatu hiw jarelfi su. Majjaka dusutu cieta ahgih et nevadbi ibhegcen faucler fugcigab wazzo hime gu ogujawaz jibenahag.",
+    "bio": "Feegawoj dehmesse ujajuj alofupi busavoh lebutuji owu luwovutur nozikonod hikac hew foc cadru. Gafud juro usizu mocowem ah ze kuscub hahwi vornanfi rijoc hiw zitpaztuk bah sedfuro me maddu mobumin homi. Pezcudotu karofak hesuhah ig hisjaki fir pepejitog zofiro cak odesi idaharce kazecuw ehuk so tofkuho."
+  },
+  "apiKey": "ceb60c8c2e2af979c07f46306df4a09c0f725917dd3b2961b45443c7215c885d",
+  "currency": {
+    "code": "RUB",
+    "name": "Russia Ruble"
+  }
+}
