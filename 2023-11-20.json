@@ -1,0 +1,26 @@
+{
+  "name": "Amy Stevenson",
+  "age": 51,
+  "address": {
+    "street": "Wezci Plaza",
+    "city": "Zumtahezu",
+    "state": "VA",
+    "zip": "07113"
+  },
+  "contact": {
+    "phone": "(723) 747-9697",
+    "servicePhone": "800699477"
+  },
+  "birthday": "1974-03-14T12:20:09.767Z",
+  "ip": "232.101.75.129",
+  "foo": "bar",
+  "profile": {
+    "about": "Hel ku fu vebbaro hu mazog kobbe disoczi oge tovappu vehki obhezic. Gedbowbak regopuv fizeffik nafod ha tubma ru pa naapu ka idpew ciase ojawo. Bibimo zo owneede cuktalfa vuejupe wi ifa heslav zew hir pegsa monkufcod.",
+    "bio": "Mi erlob opdol zismi zinji pod taigi pe ewurol hascel gitedlez zafce un di juhmaw sohgauk. Re ozok fiwacma ru we fivbanad bo low be zebiice weh viruk. Hunamjo kog nagga rikik ci go ci nommujem sagu rewoka negdipwo wuf cik ze sem lut. Maomeat vu othogdi odmawu handus surohuc fonil fu pufu kec onameg azni."
+  },
+  "apiKey": "15d9373a81b5faedcb3d53f5f051f432ef563a551f8443e6ef58f48f940a217a",
+  "currency": {
+    "code": "DKK",
+    "name": "Denmark Krone"
+  }
+}
