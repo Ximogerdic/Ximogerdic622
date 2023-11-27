@@ -1,0 +1,26 @@
+{
+  "name": "Willie Munoz",
+  "age": 43,
+  "address": {
+    "street": "Awodeb Center",
+    "city": "Keriuk",
+    "state": "HI",
+    "zip": "99138"
+  },
+  "contact": {
+    "phone": "(845) 738-5745",
+    "servicePhone": "800172293"
+  },
+  "birthday": "1963-07-14T15:52:31.964Z",
+  "ip": "165.215.254.191",
+  "foo": "bar",
+  "profile": {
+    "about": "Oganan zanwon koadbu hoguthic ojmojod raslecdu toso fehej cu pefidtew zebocedek cabbous fojha dowewtew. Biuj datukjol wupmercov fu paceheeca jike udo amofepa mo rajop of eva otceji vok wevlid fi. Cofimam mebejuuj avdunvog re jo cat vanuro po wuv og zohvehnot gig guvapusu ive nogdaceku gas jerafdep.",
+    "bio": "Vauro felo utukagit mil ku puz wuctu go nu imataek efcev mug fe hecwup fam. Op tut behaot utibet fuvuvehof ma mono doim douririp hagrelbuw bulliped baibcad subjec up luzero cuwtot ovotmok didmakabe. Pozalunu orbe pa zadvahje tesvicu gikubi roaguawo iblejrop nu cevjuv fajzeggiz abbu luhsipgi kahuhuge rihatad enutingan."
+  },
+  "apiKey": "b5be7652de6f7244ef8e2458cc2de04f3195fdb7e2547e64b32fca24b0a1824e",
+  "currency": {
+    "code": "PLN",
+    "name": "Poland Zloty"
+  }
+}
