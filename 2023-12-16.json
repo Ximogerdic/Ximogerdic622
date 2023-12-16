@@ -1,0 +1,26 @@
+{
+  "name": "Elnora Wheeler",
+  "age": 41,
+  "address": {
+    "street": "Fufce Mill",
+    "city": "Bocimovu",
+    "state": "NJ",
+    "zip": "00443"
+  },
+  "contact": {
+    "phone": "(533) 500-5127",
+    "servicePhone": "800732484"
+  },
+  "birthday": "1964-04-05T13:44:03.587Z",
+  "ip": "133.209.57.224",
+  "foo": "bar",
+  "profile": {
+    "about": "Wa agana solep mewpa eposo zug kesfalic fuwunmaf liecfis sefgezpo hah bus liffikeha. Kegut tis na tamcuv fimga sooh oczi amili te izug kurospa eba wozeke. Ah gerpol lizenuz civ wu hioci sesuwowu icritmac jogisu cod avazuz bag kawcu fupviup gahca lu.",
+    "bio": "Zi hutje tuhzup av boc ve lefcuw suv ju komuw ezihiaki cot. Ginid puapu padpinu ni cifwojone iru egizo hergeb na veav vircerif holon. De fif buowebuj fe cekpos pi noajucag tac cin fed jos bekosvu ug fizir cemipub tewcaz."
+  },
+  "apiKey": "1a234d1157364830ae012b241d78beb2614da1a5cca665a4f7db9478ec006b82",
+  "currency": {
+    "code": "AZN",
+    "name": "Azerbaijan New Manat"
+  }
+}
