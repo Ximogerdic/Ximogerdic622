@@ -1,0 +1,26 @@
+{
+  "name": "Steven Houston",
+  "age": 46,
+  "address": {
+    "street": "Ciif Street",
+    "city": "Wereje",
+    "state": "FL",
+    "zip": "87814"
+  },
+  "contact": {
+    "phone": "(307) 860-5125",
+    "servicePhone": "800545772"
+  },
+  "birthday": "1986-03-31T02:13:28.817Z",
+  "ip": "67.44.224.97",
+  "foo": "bar",
+  "profile": {
+    "about": "Ka got asu hiw sudu cukajri vebil mahdu pufaoga ciw fisradi tugmirpof. Patavrup mafic diz iktobsi cibojzam rutson ihe zeurlo gegnu zat bagkosri ihuuha rep gelro. Dizifof ruhoci recat wu ju aburu anidouwo moj azimin kecmosse lizune zien nehibe es.",
+    "bio": "Foedopef zu zig osogofi oz fipku kizkegul piwupwe hinure ba hiswi upehiw. Rop gi hozo soksu go umvugud si pu viv eripav cegu bef uca fo paloni. Esmi begsuza iw ih lavezo ug ronudip wefka lalodedu fel tab zalaz ojine. Fif nakuni huloszap owve re jul vu eb haw iko buvfivog akwomzog coume jan bu."
+  },
+  "apiKey": "0edc28245dc2fc429588eecee3bc055e42266b8d92dee71689be2ac3af9c145b",
+  "currency": {
+    "code": "BOB",
+    "name": "Bolivia Boliviano"
+  }
+}
