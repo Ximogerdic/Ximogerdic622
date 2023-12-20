@@ -1,0 +1,26 @@
+{
+  "name": "Edwin Nelson",
+  "age": 38,
+  "address": {
+    "street": "Tipe Extension",
+    "city": "Gaamiace",
+    "state": "MO",
+    "zip": "44134"
+  },
+  "contact": {
+    "phone": "(849) 376-1018",
+    "servicePhone": "800877639"
+  },
+  "birthday": "1990-03-17T14:36:14.907Z",
+  "ip": "253.143.115.187",
+  "foo": "bar",
+  "profile": {
+    "about": "Ihuev ufbieno tagfeza jorke kezida budocu hihocgek zail ra sajlu epo cemofvo. Ne dadwa jikatu di jurnir junsaja sosaftu virbicgid osuhujo jobe gowhobo ohoju did. Ribak irijujer jof ki leme nubufa miepu wid oji boorpo od fossa da ja fid.",
+    "bio": "Fowtaf fajfev imeaniri du ebaho nafzeb vanaleh uzueb ajjim nirag uc mofcihu uvikomor pouremi aszudup lo aticekwo. Isfub woris jirze wi hibzez esuh nabhiwiva zoronob so fezofajo gucirzob saviwmo cufep akaafi. Gu ceiciper on pe awu suwig ifa bonjaj nuvjufibo zeleru monges megefa opke riv."
+  },
+  "apiKey": "57d4483165866113b20bd89925a0b2678c64b516a6af449b4687fe8cddefef7d",
+  "currency": {
+    "code": "ZMW",
+    "name": "Zambia Kwacha"
+  }
+}
