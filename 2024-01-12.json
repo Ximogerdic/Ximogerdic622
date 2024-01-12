@@ -1,0 +1,26 @@
+{
+  "name": "Hester Long",
+  "age": 22,
+  "address": {
+    "street": "Bieg Glen",
+    "city": "Ofcabdum",
+    "state": "ND",
+    "zip": "95069"
+  },
+  "contact": {
+    "phone": "(435) 607-8414",
+    "servicePhone": "800327485"
+  },
+  "birthday": "1998-12-14T21:24:30.988Z",
+  "ip": "186.5.246.63",
+  "foo": "bar",
+  "profile": {
+    "about": "Jel upuden motheh ec ukowagdas eg gibpok ro fogo nizvohe ki po lapuc potgod feuni. Jov mezuglow evabam vemu cuzfaew lobmu izfuno moli bapo ishidija sec ozujakuv jev pietva fo. Rarih lipva ku wasda ke lohhol peltoof huwju hantibe hadasbo jeukim kujme luup nuhas comfu ibito.",
+    "bio": "Ri jaf bajvis kalvinruv waribzop raw nicero pahguf ate ca wafpi ranfisru. Iduudow bosfo ni fajne jil abuno uh osager zowseze dilcu po awbaicu. Do lok iwuheduw remuvseb rapred kudfi du kidumed igejahi osvaf tuhofec wulju mafonowi kupajavek sewewok odemudar kuvpu mi. Vefme kogih amobi sen lupmu med uwinuaj jowoplo hearbor fawar kot moz gu. Zurhiaje mezajto efibare iru nane wem vavu zo nazo mesubnum udaluhel ekepig ger kebugpek seros. Ji dejal demeda haf aroimi imlesup kim bad fupwovbef vihic ov duzlaaf gal gilu cewol nenbamko gubpovo. Bikhondij vur lalumume siifu ariceifo vocnase vosurora pulovumu silsegsat secso un zinsa ves onosubake weteniwo gum mor inadudup."
+  },
+  "apiKey": "693ea6379a003f73ce11f71e24df75f046cf0a5b00c8c2aad1e63c7597b3a63b",
+  "currency": {
+    "code": "BDT",
+    "name": "Bangladesh Taka"
+  }
+}
