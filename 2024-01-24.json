@@ -1,0 +1,26 @@
+{
+  "name": "Betty Cohen",
+  "age": 45,
+  "address": {
+    "street": "Zumi Glen",
+    "city": "Fetcupen",
+    "state": "RI",
+    "zip": "06120"
+  },
+  "contact": {
+    "phone": "(816) 609-2908",
+    "servicePhone": "800265445"
+  },
+  "birthday": "1994-05-06T14:38:36.082Z",
+  "ip": "23.30.123.159",
+  "foo": "bar",
+  "profile": {
+    "about": "Gomlur azluj sifrawna poga tipafifa fi luiw adzez hachozgan uvjutsol koncaake je ew haj ufilo ze. Va to ijere sad za dilakep kamlum sa kezigon vala emoeha dor. Enrehhe cep cuga cemdo al laho koene sujudko bizawe fiwimu pajfa eboopore oz tu tojur. Bepolvi suj asjiksaf nefdesih el lonufeg tip vizes waoheuz ni bo ti. Kisdidi fivagus dabiha pabap bejebi hewima so pes mutupaawi ene zogure lan ipulo.",
+    "bio": "Levo wan nasop avu vaw cite mubib zuwalofi jazsitjis riaka sapibadat impa kimof la zami wirha hoppu. Sig gukwulra ruvez uhje beflinto kiv bukwa tiwof konak gecapnah wihic hadikka sebnu baugbic ato lulfel. Kinhozo cih lirtusit bohos famohep copdokgeb nogeg em vav wewabji mu tibetiot."
+  },
+  "apiKey": "a82ed8a52863811fd1c75fd385dcd4c31bf60548d8fbfff59240e33743f4677d",
+  "currency": {
+    "code": "SEK",
+    "name": "Sweden Krona"
+  }
+}
