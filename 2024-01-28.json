@@ -1,0 +1,26 @@
+{
+  "name": "Emilie Weber",
+  "age": 40,
+  "address": {
+    "street": "Jonot Plaza",
+    "city": "Urpekun",
+    "state": "DC",
+    "zip": "24045"
+  },
+  "contact": {
+    "phone": "(240) 469-8823",
+    "servicePhone": "800611851"
+  },
+  "birthday": "1968-09-24T14:06:24.928Z",
+  "ip": "132.118.169.219",
+  "foo": "bar",
+  "profile": {
+    "about": "Feja muahodo to nuwupha ipodepce onkeefi lo paf so aw cotucab tujakte civ helva cav. Luf vehi hokiuk pip zuluf lemes favo cevne gi vuzpimcu win doke bufolit ra tairjup mozjujop niopru. Irdicbe etolosdi uza icinoh wone zesabuug jevze neg ate sino fe oriar putmojeb uzwi fumusta ewusiom.",
+    "bio": "Kaesu lotonsom opu odiwe wacza vemsun nevelzu menav wiatfaf map piwhejiso laojta hepi dullivud jaose zaj. Vuvocwo pipev mu mibabno somel jitiw mipafgen fu zuaru homorga woagzu nama ripjir. Fot saabva rerag zipejuj neble zorukhih fo tafjajzo cun hu kelcubog usi godnaw cit ograpam."
+  },
+  "apiKey": "3873126afa2bc4ff43cdef76ef7d208a5154171e1ecc07299a0ddd1f3b514440",
+  "currency": {
+    "code": "AED",
+    "name": "United Arab Emirates Dirham"
+  }
+}
