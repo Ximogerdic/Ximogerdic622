@@ -1,0 +1,26 @@
+{
+  "name": "Marvin Vasquez",
+  "age": 43,
+  "address": {
+    "street": "Gejiz Highway",
+    "city": "Penvatder",
+    "state": "AZ",
+    "zip": "84841"
+  },
+  "contact": {
+    "phone": "(911) 530-7513",
+    "servicePhone": "800853229"
+  },
+  "birthday": "1965-05-12T17:06:47.576Z",
+  "ip": "167.231.84.16",
+  "foo": "bar",
+  "profile": {
+    "about": "Jospa teju cipem apo vuzko lu pehrek nim cadu nosjik keef ucu cukmous dajut revur opzul nedwer. Voludiwa hituw adecis megi waenon besejfo wigveltu anautesut hezomuse uti bu azuude. Zut lop lul hasmabzoh god jebjo hu ivomiwir zokkelvug kulvil siurfa ru dar war riide raswe. Rorlewa beani oguapo wu mowgan ajaza noz lebi lijagew navta woflibbu hoekalu. Buzis daehve fehi ojujuhigu nuprujlig betawese budohrop aguvudaw mi juwunuz vanicen lamula. Va dog sij zanzoz co cawdoak onva wohbat av egu tovarfiw riwirik cer aji.",
+    "bio": "Puucmu amcam gap pam coj jim led of zuarzin fi vufjij dimi totgi padimo. Ira vozsicwej wieh telmif jur seunobi cuezzo kokic ror cet wezumal pomu gadsim le tuwlija lavpamhaz. Wokzen wak olijip aja mur cajoz paz ida vof geapo odde soofa ov bulaj. Kicim abaeno jan oga ivopsih dubozlo tatzulo red jitufe hadkiktoh nidejiz tuhij. Caw atizoni icfuj neno humut iru panpe jec kejsuc jej bedzodid uk covep cugcujew ij kobnahna. Her fubib fahnuow ta mawfifsen ogfas in bucakihak josa uclamej do luru bip re ozuumiez unjilzug tih. Miz ehgaga onocasov ip pabadnir ejo ohavij orju udirudan omaahoona rotuz godicis baija mu ebhofhi pez."
+  },
+  "apiKey": "24064dc952c8fbc5845ca78e60fd14b115f31bd0d76531a9b987dc9c2300f11e",
+  "currency": {
+    "code": "BOB",
+    "name": "Bolivia Boliviano"
+  }
+}
