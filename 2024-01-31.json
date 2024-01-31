@@ -1,0 +1,26 @@
+{
+  "name": "Lester Wong",
+  "age": 37,
+  "address": {
+    "street": "Tazo Junction",
+    "city": "Livulsum",
+    "state": "MT",
+    "zip": "83248"
+  },
+  "contact": {
+    "phone": "(330) 314-8503",
+    "servicePhone": "800654639"
+  },
+  "birthday": "1978-05-15T18:06:11.134Z",
+  "ip": "31.232.103.8",
+  "foo": "bar",
+  "profile": {
+    "about": "Uci giz vad muvoc cofepal jipapcu solovlec ivzafeb hovaomi bufaop mo ugicokcu. Ravis wonig mirzic nosijije ed tadato zueb fonebro haed ma ritodusid voduto. An roiro sih vuzciof demusah rajtuwwu el otes kowofujo hevkov oso ab ipba beej zi zo ilvovo ekveiri. Comcunka hoco acfesena mofub ehi ufi uji wovi kokbe bag akhosu sefovsas bopu. Vanirog reucomes ridujtic zizhin pob zipaduosu lo faf agu kubag wobar vofev bol. Menowo vusutjah ro hijho bolura ofeta ota iskafo ducig ni bewioz bi okoluoh hugo liucgu jevwor. Leced ejaveiri moozoli kotaciguj towrakvi camhotlit biaso uddelvar oposzaz gow zo miga suj juecdav aj elsodad.",
+    "bio": "Susbov ovne roduuhu howfodru iv muffugdab mowtihu cim ji hazmoufe puzakdap ugtuni jivu kuc igcub ilaujwe vedgez ajmuugi. Ce zupi tehsiop pug kegpo bez vogbu culnov acliba dehdu uwpoego vusi mukfok mangu dig. Kutmi moz zadi jutag gumbop pihvafi alu uga ogkigon sujkupa ezmugor razev kezo hececwa sawol."
+  },
+  "apiKey": "b87bd1c2a929edfd2aca3c0bb861707d9e2c9c3029ac59abeaebd1d2afe549e6",
+  "currency": {
+    "code": "RUB",
+    "name": "Russia Ruble"
+  }
+}
