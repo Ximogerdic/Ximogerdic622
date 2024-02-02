@@ -1,0 +1,26 @@
+{
+  "name": "Olive Cox",
+  "age": 32,
+  "address": {
+    "street": "Jetam Circle",
+    "city": "Sasripce",
+    "state": "VT",
+    "zip": "69275"
+  },
+  "contact": {
+    "phone": "(336) 320-9393",
+    "servicePhone": "800756586"
+  },
+  "birthday": "1959-07-11T14:51:08.964Z",
+  "ip": "238.67.88.32",
+  "foo": "bar",
+  "profile": {
+    "about": "Ruzkekol ele cuf rikiguj tejephik aduloseg ji vemilo vala ma jubjeta hiris hilwi vucueb. Seufo nemdu imu ubi du kigzup tehahe tew gehmac ce hob de fojkutuk. Da loha rilkerfip eg meswum bo hicfag ili nucata sewizzuz poin ziekriv.",
+    "bio": "Na ceibeelu kieg uwfipen uli eg vekut seltez osianpu amaige ijlobib ka keter zaveco egeti. Buger padmes zop fal wizfeh us komti deba ze ejivemo nujri sujizul. Epevdow okujo wukcuk daje amuvrig ezelonug oraocbi cuvme boadisor ewa wijlu nebus evihu hoz. Bopoep hesugi pahpet cujzos uke diene dukinab zib jelsep ohudnod we ogabalus giuhhim."
+  },
+  "apiKey": "922e355aa04da31ef547cb63be4056463a752c57b84cf65034a63f5687d1e5a5",
+  "currency": {
+    "code": "TMT",
+    "name": "Turkmenistan Manat"
+  }
+}
