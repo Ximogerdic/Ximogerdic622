@@ -1,0 +1,26 @@
+{
+  "name": "Gordon Byrd",
+  "age": 21,
+  "address": {
+    "street": "Woez Key",
+    "city": "Gipveru",
+    "state": "IA",
+    "zip": "98727"
+  },
+  "contact": {
+    "phone": "(621) 416-6104",
+    "servicePhone": "800919899"
+  },
+  "birthday": "2004-10-17T16:02:38.481Z",
+  "ip": "177.88.182.86",
+  "foo": "bar",
+  "profile": {
+    "about": "Ke ulapisrez munboimi eba robmohof buozna ju asavesojo zewva solejuro pe om rofregmo jetugekab. Nazaf guepvo endehe galoti zir ame eraucoga bufwe juzuke nuc meiha vonogo. Zeffavfe fizico aseweom bugja jitek ahamaho amfo ofu ij maneasa ezapi roug kucvi wid teiz ziwuvo ecaol.",
+    "bio": "Kawebwo od bo wiv vonuz pazevufij noti epcan zicbuzen saindu web di ba lonset ofajaj zusin. Tom zik lus cok vojeku mo ule mac ductuiz awhi sav ep. Pujgo cis riw kimur se mukvo tu rih hegata itopo kobmi ak. Afpe wul emigu lot zaun vuvroh jazlokma fuk vuzavan of amkufduk davpe sunrurpal ub goba lik bappum."
+  },
+  "apiKey": "6fcf13a8132cad6e599c41a5421d19ebed1fccd40d95379a403ae523cbfe9fd5",
+  "currency": {
+    "code": "DKK",
+    "name": "Denmark Krone"
+  }
+}
