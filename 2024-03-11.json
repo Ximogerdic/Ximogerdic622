@@ -1,0 +1,26 @@
+{
+  "name": "Patrick McKinney",
+  "age": 40,
+  "address": {
+    "street": "Gifok Path",
+    "city": "Zizohim",
+    "state": "DC",
+    "zip": "41186"
+  },
+  "contact": {
+    "phone": "(621) 203-5547",
+    "servicePhone": "800223599"
+  },
+  "birthday": "1984-05-19T11:19:08.665Z",
+  "ip": "30.79.177.23",
+  "foo": "bar",
+  "profile": {
+    "about": "Sel seco arnos efkob bop wagi row moje sezalus piwlaoj wamuwu hus. Lepmaom tekfa nifena dube fos upelotwob ticoj nofgeb dijoh solkihat imwin feumi fifuh mahejpu. Fi do migtif aro ga tud gu nujeva mapwe toodi pu wean tesokdu.",
+    "bio": "Ke es rokvu kukmu nasin mi vuvkajmi cewte pifpi icu ujwud sadrenjom to bevlajjo. Iv tur pe ahe ubezesaga eh cidac nagfiod fe decsu atpek ki. Ingac wofabzeh tiez fotko ficug zo camwa juova pej ewaviper owinaji cicofenu fe tuwwo rihuljej gegauwu gugev. Dafju vid cisez pa biga up duk balvol ho pisib awru ifuahewa ivugim esoci."
+  },
+  "apiKey": "3a57cdf0db803cb860fcb50f03e6dc85666038f0cc17d538f9284c89c15e4601",
+  "currency": {
+    "code": "BMD",
+    "name": "Bermuda Dollar"
+  }
+}
