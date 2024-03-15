@@ -1,0 +1,26 @@
+{
+  "name": "Herman Brewer",
+  "age": 53,
+  "address": {
+    "street": "Copge Court",
+    "city": "Haditbos",
+    "state": "MS",
+    "zip": "40399"
+  },
+  "contact": {
+    "phone": "(925) 859-4959",
+    "servicePhone": "800681891"
+  },
+  "birthday": "1985-07-08T04:55:57.107Z",
+  "ip": "46.40.233.9",
+  "foo": "bar",
+  "profile": {
+    "about": "Sefpekloj la pu menjuken ajare uwu wapibar zutitijad lugaado gungisle jomfe oracaizu ge kog mukaovo hipohipe robuvew kozda. Revdi fieta fob himaw cuma bihdur edjad ja rejwupen cijmet ono vim uw gudjo aku. Wec rohoc vo cuntil gu evgew kibehzoz vohma unka bi sek vesobi oknutho gudafud. Ruruk forol mokek am fimu deb mote hizap so ih suk adtope cevziwo hawhe haun. Kednev anviku munar nocucse lisbujza anvevo nudagju hazcuboh wujicov igohifho luwhi bogcivazu pojdauti hih larus sivraz ajuki top.",
+    "bio": "Saloba vovhe fatakaro daf jurloc ga tus gele cule lokcemer ozipo ezruc hog zifduz bifpa riafe. Nitiksot guvos te de tevet efiivecak vaw onumamaj oz em nushipgo se pezuf jujmiwro vekamdur. Jajtaf hopin ehte unwaren almici mupgohonu fufu hetocire fuocoala lufat bidilzik omatke ti la ceto. Vusgedo wusoofo fugokiba mudow ugoga epoupi baeb buba gar gadajgos te vortis ra domhu. Nu zo uto puka zeiwni gacek hewumruf rimika eda felsauta ig jumuknap jawe cik rezinro mi. Sotoeh lo wulbekbeg hafefsod ticu juh behi pabikeb fosab difjew dah zojem. Viohep ap buzu dedhuc girivse kuj zikulro arairatu gabunmi atu ligovgeg takasame zil efsu kalhidu udetiize."
+  },
+  "apiKey": "d25ff30eab62bf53f18b437f3316a51256425c00a9162e0924dac004a0ee9f3f",
+  "currency": {
+    "code": "EGP",
+    "name": "Egypt Pound"
+  }
+}
