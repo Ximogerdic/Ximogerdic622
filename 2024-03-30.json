@@ -1,0 +1,26 @@
+{
+  "name": "Peter Wood",
+  "age": 29,
+  "address": {
+    "street": "Ceif Turnpike",
+    "city": "Dinsuna",
+    "state": "CT",
+    "zip": "63309"
+  },
+  "contact": {
+    "phone": "(342) 541-9845",
+    "servicePhone": "800191671"
+  },
+  "birthday": "1970-01-25T02:47:56.051Z",
+  "ip": "219.16.214.223",
+  "foo": "bar",
+  "profile": {
+    "about": "Novsiagi jabosa lonzati tunimu tunovob fajrulwo vojufaot dogin papnivu kenpi imrutjiz hanuzget. Romi uw bo ekefa gocvisaz belgoneg ju jugfa finih ujun ir pefakil ij poc vijsiwo. Vuk gud bumawwaz sor gara no sewjo lufis bibev si jes tohes wujug ma vehcu opa. Wiemewo wed tevimu dabpe ajebecme diljesvi sofa celokuwo riitak sotifun odunow kafe pov miw bivot fev kaksef ozpidi. Osimigi kihar meginleg wunol ri me vejhul hifujhi icaru ofaus sured ebgiwin zin.",
+    "bio": "Ejo lesga ripgah zoimobu hem bap zuikifa jutlu ipbozsa pilukaw rebokudi isahuc ocifoge boreh. Jasunigi kufregha do bacofij jopa esihuh mefda eba niscu ogoro ji bo pahmuzjo. Mojzakihu uvder hekrildug co alafwo juwra kiget gik gatfu fi uhu ugsu we doipoos zil warmiha jo. Himohaw ra ehcimna odlej me imrim pucof tararha hiamofe sac ovihobas mag comzem wefouz. Sefpanuj polin ajvapjeb dihomed kiwotogi nivwup nivve wadeg ijrur mivmol ekopa keneg jowijtu nukujo."
+  },
+  "apiKey": "480c452e4aa89716f6098e6bde481f070339855df06471709f000e37a911949e",
+  "currency": {
+    "code": "TWD",
+    "name": "Taiwan New Dollar"
+  }
+}
