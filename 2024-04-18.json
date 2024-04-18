@@ -1,0 +1,26 @@
+{
+  "name": "Norman Santos",
+  "age": 37,
+  "address": {
+    "street": "Nuvo Loop",
+    "city": "Ranajjes",
+    "state": "CT",
+    "zip": "68468"
+  },
+  "contact": {
+    "phone": "(861) 850-4386",
+    "servicePhone": "800466991"
+  },
+  "birthday": "1975-10-14T18:07:40.993Z",
+  "ip": "35.79.35.180",
+  "foo": "bar",
+  "profile": {
+    "about": "Mu zuw doj aki pujizab ordeag ema rolvoju hago nutev de nogakorok tucafib uh je. Ajoju kig luz inbuc eh kih fuzufa meca il wim cijucucu zuhne ugikon ki do cuz. Zusku be ehahun ibogiave tir mujlof fu caip amipeb ihezamun jirvuhas vajsu uti upa nog.",
+    "bio": "Pajdeza va deva un fas upicehba buz duidemod rapudip be wecuno fibalav kocenjuk marona fuakfiz hopmetak. Nat lakuticu ri uhunaanu co dijse co zodawa pobsukte cek jafiveto ada ifu mitsav ozdi. Ud sujra dav fi jog omu weesu fac nu ocuasa zafsusuma kojohoj ufipek battaco joco paw oledunvif."
+  },
+  "apiKey": "3cd7eee4f384aeb4c8c46c0ec8f5080994d0c62c5205b9626e2bbb72c37ba2bf",
+  "currency": {
+    "code": "QAR",
+    "name": "Qatar Riyal"
+  }
+}
